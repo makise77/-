@@ -1,0 +1,296 @@
+. {
+    background: linear-gradient(
+      180deg,
+      var(--midnight-blue) 0%,
+      var(--transparent-dark-slate-gray) 100%
+    );
+    overflow: hidden;
+    padding: 41px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+  }
+  .flex-wrapper-three {
+    margin-bottom: 53px;
+    padding: 0 0 9px 13px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .ffm3zskuaa-ytwlh-1 {
+    width: 125px;
+    height: 125px;
+    margin-right: 11px;
+    border-radius: 90px;
+  }
+  .flex-wrapper-nine {
+    padding: 9px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .flex-wrapper-two {
+    background-color: var(--gainsboro);
+    margin-bottom: 3px;
+    margin-left: 32px;
+    border-radius: 20px;
+    padding: 10px 12px 3px 13px;
+    display: flex;
+    align-items: flex-start;
+  }
+  . {
+    height: 25px;
+    width: 148px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--black);
+    display: flex;
+  }
+  . {
+    height: 51px;
+    width: 180px;
+    font-family: "Inter";
+    font-size: 48px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--white);
+    display: flex;
+    margin-bottom: 5px;
+    margin-left: 32px;
+  }
+  .relative-wrapper-one {
+    position: relative;
+  }
+  .wawawa-doshisha-ac-jp {
+    height: 33px;
+    width: 225px;
+    font-family: "Inter";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--white);
+    display: flex;
+    text-shadow: 0 4px 4px var(--transparent-black-2);
+    position: relative;
+  }
+  . {
+    height: 39px;
+    width: 69px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--white);
+    display: flex;
+    position: absolute;
+    left: -37px;
+    bottom: -30px;
+  }
+  . {
+    height: 16px;
+    width: 267px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--white);
+    display: flex;
+    position: absolute;
+    left: -21px;
+    bottom: -30px;
+  }
+  .line-8 {
+    width: 390px;
+    height: 1px;
+    background: linear-gradient(
+        rgba(0, 0, 0, 0.2),
+        rgba(0, 0, 0, 0.2)
+      ),
+      rgba(0, 0, 0, 1);
+    margin-bottom: 43px;
+  }
+  . {
+    height: 48px;
+    width: 183px;
+    font-family: "Inter";
+    font-size: 40px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--white);
+    display: flex;
+    margin-bottom: 25px;
+    margin-left: 13px;
+  }
+  . {
+    height: 48px;
+    width: 368px;
+    font-family: "Inter";
+    font-size: 40px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--white);
+    display: flex;
+    margin-bottom: 25px;
+    margin-left: 14px;
+  }
+  . {
+    height: 48px;
+    width: 159px;
+    font-family: "Inter";
+    font-size: 40px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--white);
+    display: flex;
+    margin-bottom: 25px;
+    margin-left: 14px;
+  }
+  . {
+    height: 48px;
+    width: 218px;
+    font-family: "Inter";
+    font-size: 40px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--white);
+    display: flex;
+    margin-bottom: 25px;
+    margin-left: 13px;
+  }
+  .bluetooth {
+    height: 48px;
+    width: 262px;
+    font-family: "Inter";
+    font-size: 40px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--white);
+    display: flex;
+    margin-bottom: 121px;
+    margin-left: 13px;
+  }
+  .flex-wrapper-one {
+    background-color: var(--gainsboro);
+    padding: 25px 19px 24px 38px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .flex-wrapper-four {
+    margin-right: 27px;
+    padding: 2px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .num-1 {
+    margin-bottom: 5px;
+    padding: 0.53px 0 0.54px;
+    display: flex;
+    align-items: center;
+  }
+  .vector {
+    flex: 1;
+    align-self: stretch;
+    object-fit: cover;
+  }
+  .home {
+    height: 13px;
+    width: 37px;
+    font-family: "Inter";
+    font-size: 10px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--dark-slate-gray);
+    display: flex;
+    margin-left: 3px;
+  }
+  .flex-wrapper-five {
+    margin-right: 14px;
+    padding: 2px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .num-1-two {
+    margin-bottom: 3px;
+    margin-left: 4px;
+    padding: 0 2.73px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .vector-two {
+    width: 100%;
+    align-self: stretch;
+    object-fit: cover;
+  }
+  .comment {
+    height: 13px;
+    width: 61px;
+    font-family: "Inter";
+    font-size: 10px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--dark-slate-gray);
+    display: flex;
+  }
+  .flex-wrapper-six {
+    margin-right: 23px;
+    padding: 5px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .group {
+    width: 33px;
+    height: 33px;
+    margin-bottom: 6px;
+    margin-left: 1px;
+  }
+  .search {
+    height: 13px;
+    width: 48px;
+    font-family: "Inter";
+    font-size: 10px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--dark-slate-gray);
+    display: flex;
+  }
+  .flex-wrapper-seven {
+    margin-right: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .num-1-three {
+    margin-bottom: 5px;
+    padding: 5.71px 0;
+    display: flex;
+    align-items: center;
+  }
+  .flex-wrapper-eight {
+    padding: 3px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .vector-three {
+    width: 72.92%;
+    height: 68.63%;
+    margin-bottom: 6px;
+  }
+  .qrurl {
+    height: 48px;
+    width: 382px;
+    font-family: "Inter";
+    font-size: 40px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--white);
+    display: flex;
+    position: absolute;
+    right: -5px;
+    bottom: 154px;
+  }

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="2.css">
+</head>
+<body>
+    <div class="">
+        <div class="flex-wrapper-three">
+          <img
+            alt=""
+            class="ffm3zskuaa-ytwlh-1"
+            src="https://static.overlay-tech.com/assets/a676c37c-1bd9-4ab0-b6a2-3f65fd929d6a.png"
+          />
+          <div class="flex-wrapper-nine">
+            <div class="flex-wrapper-two">
+              <p class="">プロフィールを編集</p>
+            </div>
+            <p class="">りこち</p>
+            <div class="relative-wrapper-one">
+              <p class="wawawa-doshisha-ac-jp">
+                wawawa&#64;mail3.doshisha.ac.jp
+              </p>
+              <p class="">自己紹介</p>
+              <p class="">はじめまして！宮崎ゼミです！</p>
+            </div>
+          </div>
+        </div>
+        <div class="line-8"></div>
+        <p class="">・テーマ</p>
+        <p class="">・テキストや動画</p>
+        <p class="">・通知</p>
+        <p class="">・通信設定</p>
+        <p class="bluetooth">・Bluetooth</p>
+        <div class="flex-wrapper-one">
+          <div class="flex-wrapper-four">
+            <div class="num-1">
+              <img
+                alt=""
+                class="vector"
+                src="https://static.overlay-tech.com/assets/6341b206-600d-420c-8ae3-87626cc4e407.svg"
+              />
+            </div>
+            <p class="home">HOME</p>
+          </div>
+          <div class="flex-wrapper-five">
+            <div class="num-1-two">
+              <img
+                alt=""
+                class="vector-two"
+                src="https://static.overlay-tech.com/assets/086f66c8-cd7f-47aa-9f3a-8ab7e727fc49.svg"
+              />
+            </div>
+            <p class="comment">COMMENT</p>
+          </div>
+          <div class="flex-wrapper-six">
+            <img
+              alt=""
+              class="group"
+              src="https://static.overlay-tech.com/assets/7e2f733b-862d-480a-8b07-e58f323319a5.svg"
+            />
+            <p class="search">SEARCH</p>
+          </div>
+          <div class="flex-wrapper-seven">
+            <div class="num-1-three">
+              <img
+                alt=""
+                class="vector"
+                src="https://static.overlay-tech.com/assets/1c134697-3473-485a-a7a7-0a8049fb7d86.svg"
+              />
+            </div>
+            <p class="search">UPLOAD</p>
+          </div>
+          <div class="flex-wrapper-eight">
+            <img
+              alt=""
+              class="vector-three"
+              src="https://static.overlay-tech.com/assets/e4fe0119-6d11-443a-bf22-d6a3bef7685b.svg"
+            />
+            <p class="search">SETTING</p>
+          </div>
+        </div>
+        <p class="qrurl">・QRコード、URL</p>
+      </div>
+</body>
+</html>

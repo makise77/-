@@ -1,0 +1,69 @@
+.top {
+    background-color: var(--white);
+    position: relative;
+  }
+  .image-3 {
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+    position: fixed;
+    left: 0%;
+    top: 0%;
+  }
+  .ellipse-20 {
+    position: fixed;
+    width: 189px;
+    height: 181px;
+    left: 45%;
+    top: 248px;
+
+    
+
+  }
+  .p {
+    position: fixed;
+width: 49px;
+height: 69px;
+left: 47%;
+top: 205px;
+
+font-family: 'Offside';
+font-style: normal;
+font-weight: 400;
+font-size: 110px;
+line-height: 139px;
+
+color: #FFFFFF;
+  }
+  .a {
+    position: fixed;
+    width: 38px;
+    height: 63px;
+    left: 52%;
+    top: 200px;
+    
+    font-family: 'Offside';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 101px;
+    
+    color: #FFFFFF;
+      }
+  .t {
+    position: fixed;
+    width: 54px;
+    height: 31px;
+    left: 55%;
+    top: 200px;
+    
+    font-family: 'Offside';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 81px;
+    
+    color: #FFFFFF;
+  }
+      

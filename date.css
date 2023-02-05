@@ -1,0 +1,300 @@
+.haikei{
+    position: fixed;
+    width: 1000px;
+    height: 844px;
+    left: 100px;
+    top: 0px;
+    background: linear-gradient(180deg, #1A3266 0%, rgba(10, 12, 19, 0.62) 100%);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+.flex-wrapper-one{
+    position: fixed;
+    width: 100px;
+    height: 677px;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    margin: 0%;
+    display:flex;
+    flex-flow: column;
+    background: #D9D9D9;
+}
+
+.homei{
+    position: absolute;
+    width: 32px;
+    height: 33px;
+    left: 36px;
+    top: 40px;
+}
+.home{
+    position: absolute;
+width: 48px;
+height: 13px;
+left: 37px;
+top: 80px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+/* ボックスの高さと同一 */
+color: #FFFCFC;
+}
+
+.commenti{
+    position: absolute;
+    width: 52px;
+    height: 33px;
+    left: 26px;
+    top: 155px;
+}
+.comment{
+    position: absolute;
+width: 48px;
+height: 13px;
+left: 26px;
+top: 195px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+/* ボックスの高さと同一 */
+color: #FFFCFC;
+}
+
+.searchi{
+    position: absolute;
+width: 48px;
+height: 33px;
+left: 26px;
+top: 270px;
+}
+.search{
+    position: absolute;
+width: 48px;
+height: 13px;
+left: 29px;
+top: 310px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+/* ボックスの高さと同一 */
+color: #FFFCFC;
+}
+
+.uploadi{
+    position: absolute;
+    width: 46px;
+    height: 37px;
+    left: 26px;
+    top: 385px;
+}
+.upload{
+    position: absolute;
+width: 48px;
+height: 13px;
+left: 31px;
+top: 425px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+/* ボックスの高さと同一 */
+color: #FFFCFC;
+}
+
+.settingi{
+    position: absolute;
+    width: 48px;
+    height: 37px;
+    left: 26px;
+    top: 500px;
+}
+.setting{
+    position: absolute;
+    width: 48px;
+    height: 13px;
+    left: 26px;
+    top: 540px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+/* ボックスの高さと同一 */
+color: #FFFCFC; 
+}
+
+.title{
+    position: absolute;
+width: 162px;
+height: 52px;
+left: 507px;
+top: 0px;
+
+font-family: 'Noto Serif JP';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 57px;
+
+color: #D9D9D9;
+}
+
+.cir1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 228px;
+height: 212px;
+left: 458px;
+top: 300px;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+border-radius: 50%;
+z-index: 2;
+}
+
+.cir2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 184px;
+height: 175px;
+left: 625px;
+top: 212px;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+border-radius: 50%;
+z-index: 1;
+}
+
+.cir3{
+    box-sizing: border-box;
+
+position: absolute;
+width: 154px;
+height: 150px;
+left: 584px;
+top: 94px;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+border-radius: 50%;
+z-index: 0;
+}
+
+.cir4{
+    box-sizing: border-box;
+
+position: absolute;
+width: 161px;
+height: 150px;
+left: 423px;
+top: 94px;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+border-radius: 50%;
+z-index: 0;
+}
+
+.cir5{
+    box-sizing: border-box;
+
+position: absolute;
+width: 179px;
+height: 176px;
+left: 328px;
+top: 212px;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+border-radius: 50%;
+z-index: 1;
+}
+
+.cirs{
+    box-sizing: border-box;
+
+position: absolute;
+width: 25px;
+height: 25px;
+
+
+background: #D9D9D9;
+border: 1px solid #000000;
+filter: blur(2px);
+border-radius: 50%;
+}
+
+.cirss{
+box-sizing: border-box;
+
+position: absolute;
+width: 12px;
+height: 12px;
+
+
+background: #D9D9D9;
+border: 1px solid #000000;
+filter: blur(2px);
+border-radius: 50%;
+}
+
+.cirs1{
+    position: absolute;
+width: 43px;
+height: 43px;
+left: 299px;
+top: 530px;
+}
+
+.cirs2{
+    position: absolute;
+width: 43px;
+height: 43px;
+left: 428px;
+top: 530px;
+}
+
+.cirs3{
+    position: absolute;
+width: 43px;
+height: 43px;
+left: 557px;
+top: 527px;
+}
+
+.cirs4{
+    position: absolute;
+width: 43px;
+height: 43px;
+left: 695px;
+top: 530px;
+}
+
+.cirs5{
+    position: absolute;
+width: 43px;
+height: 43px;
+left: 817px;
+top: 530px;
+}

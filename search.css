@@ -1,0 +1,335 @@
+.haikei{
+    position: fixed;
+    width: 1000px;
+    height: 844px;
+    left: 100px;
+    top: 0px;
+    background: linear-gradient(180deg, #1A3266 0%, rgba(10, 12, 19, 0.62) 100%);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+.flex-wrapper-one{
+    position: fixed;
+    width: 100px;
+    height: 677px;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    margin: 0%;
+    display:flex;
+    flex-flow: column;
+    background: #D9D9D9;
+}
+
+.homei{
+    position: absolute;
+    width: 32px;
+    height: 33px;
+    left: 36px;
+    top: 40px;
+}
+.home{
+    position: absolute;
+width: 48px;
+height: 13px;
+left: 37px;
+top: 80px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+/* ボックスの高さと同一 */
+color: #FFFCFC;
+}
+
+.commenti{
+    position: absolute;
+    width: 52px;
+    height: 33px;
+    left: 26px;
+    top: 155px;
+}
+.comment{
+    position: absolute;
+width: 48px;
+height: 13px;
+left: 26px;
+top: 195px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+/* ボックスの高さと同一 */
+color: #FFFCFC;
+}
+
+.searchi{
+    position: absolute;
+width: 48px;
+height: 33px;
+left: 26px;
+top: 270px;
+}
+.search{
+    position: absolute;
+width: 48px;
+height: 13px;
+left: 29px;
+top: 310px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+/* ボックスの高さと同一 */
+color: #FFFCFC;
+}
+
+.uploadi{
+    position: absolute;
+    width: 46px;
+    height: 37px;
+    left: 26px;
+    top: 385px;
+}
+.upload{
+    position: absolute;
+width: 48px;
+height: 13px;
+left: 31px;
+top: 425px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+/* ボックスの高さと同一 */
+color: #FFFCFC;
+}
+
+.settingi{
+    position: absolute;
+    width: 48px;
+    height: 37px;
+    left: 26px;
+    top: 500px;
+}
+.setting{
+    position: absolute;
+    width: 48px;
+    height: 13px;
+    left: 26px;
+    top: 540px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+/* ボックスの高さと同一 */
+color: #FFFCFC; 
+}
+
+.rectangle-1 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 608px;
+height: 42px;
+left: 256px;
+top: 93px;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+}
+.group-1 {
+    position: absolute;
+width: 18px;
+height: 23px;
+left: 831px;
+top: 104px;
+}
+.image-4 {
+    position: absolute;
+    width: 24px;
+    height: 25px;
+    left: 624px;
+    top: 332px;
+    
+    background: url(image.png);
+}
+.line-14{
+    position: absolute;
+width: 372px;
+height: 0px;
+left: 280px;
+top: 322px;
+
+border: 1px solid #6B6A6A;
+}
+
+.kensaku{
+    position: absolute;
+width: 61px;
+height: 32px;
+left: 266px;
+top: 85px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #262222;
+}
+
+.kensakuop{
+    position: absolute;
+width: 335px;
+height: 35px;
+left: 273px;
+top: 130px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #A8A8A8;
+}
+
+.user{
+    position: absolute;
+width: 117px;
+height: 37px;
+left: 278px;
+top: 163px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+}
+
+.time{
+    position: absolute;
+width: 106px;
+height: 31px;
+left: 279px;
+top: 198px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+}
+
+.day{
+    
+position: absolute;
+width: 99px;
+height: 36px;
+left: 279px;
+top: 234px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+}
+
+.tag{
+    position: absolute;
+width: 128px;
+height: 52px;
+left: 278px;
+top: 270px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+}
+
+.rireki{
+    position: absolute;
+width: 64px;
+height: 26px;
+left: 282px;
+top: 323px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #FFFFFF;
+}
+
+.eve{
+    position: absolute;
+width: 64px;
+height: 35px;
+left: 308px;
+top: 342px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+
+.last{
+    position: absolute;
+width: 82px;
+height: 22px;
+left: 307px;
+top: 377px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+}
+
+
+
+
+
+
+
